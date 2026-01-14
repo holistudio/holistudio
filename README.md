@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello world, I'm Dan!
+
+- 🎓 I have PhD from NYU from doing research at the [Building Informatics Lab](https://bilab.engineering.nyu.edu/) on various AI, HCI, and XR applications in [architecture](https://holistudio.github.io/2022/03/05/outpatient/), [engineering](https://holistudio.github.io/2021/04/05/easeebot/), and [construction](https://holistudio.github.io/2023/05/05/worker_safety/). 
+- 🤖 More recently, I completed a batch at [The Recurse Center](recurse.com), where I did a deeper exploration of RL and LLMs.
+- 🖼️ I'm now interested in applying those technologies to various creative and real-world applications.
+
 
 <!--
 **holistudio/holistudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
