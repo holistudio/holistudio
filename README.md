@@ -2,7 +2,7 @@
 
 - 🎓 I earned a PhD from NYU and the [Building Informatics Lab](https://bilab.engineering.nyu.edu/) researching various AI, HCI, and XR applications in [architecture](https://holistudio.github.io/2022/03/05/outpatient/), [engineering](https://holistudio.github.io/2021/04/05/easeebot/), and [construction](https://holistudio.github.io/2023/05/05/worker_safety/). 
 - 🤖 More recently, I completed a batch at [The Recurse Center](recurse.com), where I did a deeper exploration of RL and LLMs.
-- 🖼️ I'm now interested in applying all of those technologies to various real-world and creative applications.
+- 🖼️ I'm now interested in applying all of those technologies to various real-world and [creative applications](https://holistudio.github.io/2023/06/14/project_spaceship/).
 
 
 <!--
